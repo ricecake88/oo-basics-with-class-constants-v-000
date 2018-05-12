@@ -17,6 +17,5 @@ class Shoe
     BRANDS << brand
   end
   
-  def size
-end
+
 end
