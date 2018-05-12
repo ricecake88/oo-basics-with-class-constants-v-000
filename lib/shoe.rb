@@ -16,4 +16,7 @@ class Shoe
   def brand=(brand)
     BRANDS << brand
   end
+  
+  def size
+end
 end
