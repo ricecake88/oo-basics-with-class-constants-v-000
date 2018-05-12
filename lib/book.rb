@@ -13,6 +13,6 @@ class Book
   end
   
   def genre=(genre)
-    GENRES.push(genre)
+    GENRES << genre
 
 end
